@@ -3,7 +3,7 @@ java {
     targetCompatibility = JavaVersion.VERSION_16
 }
 
-tasks.test {
+tasks.getByName<Test>("test") {
     useJUnitPlatform()
 
     testLogging {
