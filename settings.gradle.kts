@@ -10,3 +10,4 @@ rootProject.name = "yandex-algo-v1"
 
 include("hw1")
 include("hw2")
+include("hw3")
