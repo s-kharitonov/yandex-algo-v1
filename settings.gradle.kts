@@ -9,3 +9,4 @@ pluginManagement {
 rootProject.name = "yandex-algo-v1"
 
 include("hw1")
+include("hw2")
