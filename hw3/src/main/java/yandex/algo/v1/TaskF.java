@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TaskE {
+public class TaskF {
     private static final String INPUT_FILE_PATH = "input.txt";
     private static final String OUTPUT_FILE_PATH = "output.txt";
 
